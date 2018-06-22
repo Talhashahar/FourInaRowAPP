@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FourInARowApp</string>
+    <string name="circle_empty_tag">0</string>
+</resources>
